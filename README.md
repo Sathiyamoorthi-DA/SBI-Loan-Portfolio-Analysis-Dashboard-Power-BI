@@ -9,7 +9,7 @@ An interactive banking dashboard designed to help management monitor credit tren
 
 ## Dashboard Preview
 
-[![SBI Loan Portfolio Analysis Dashboard](Screenshots/sbi-loan-portfolio-dashboard.png)](https://github.com/Sathiyamoorthi-DA/SBI-loan-portfolio-powerbi/blob/main/Screenshots/sbi-loan-portfolio-dashboard.png)
+[![SBI Loan Portfolio Analysis Dashboard](Screenshots/sbi-loan-portfolio-dashboard.png)](https://github.com/Sathiyamoorthi-DA/SBI-Loan-Portfolio-Analysis-Dashboard-Power-BI/blob/main/Screenshot/Sbi_Loan_analysis_dashboard.png)
 
 ## Business Objective
 
